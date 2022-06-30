@@ -1,0 +1,1 @@
+# Vyhladavanie-slova-v-subore
